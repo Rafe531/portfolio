@@ -1,0 +1,138 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 200px;
+}
+.mary{
+    font-weight: 800;
+    font-size: 45px;
+    
+}
+.col{
+    color: #FD6E0A;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav ul a{
+    text-decoration: none;
+}
+.btn{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 15px 33px; 
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 20px;
+}
+header{
+    background-image: url('developer.png'), url(header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    
+    
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px 0 200px;
+}
+.greet{
+    font-size: 45px;
+    font-weight: 600;
+}
+.title{
+    font-size: 85px;
+}
+.bod{
+    font-size: 18px;
+}
+.pic{
+    width: 584px;
+    /* height: 676px; */
+}
+.b1{
+    width: 585px;
+    /* height: 366px; */
+}
+.about{
+    width: 1140;
+    height: auto;
+    background-color: #FFF8F3;
+    margin: 130px 230px;
+    padding: 131px 157px;
+    text-align: center;
+    border-radius: 20px;
+}
+.all{
+    display: flex;
+    gap: 30px;
+}
+.a{
+    text-align: center;
+}
+.c{
+    margin: 50px 344px 30px 345px;
+}
+.e{
+    display: flex;
+    margin: 0 260px 0 260px;
+    gap: 20px;
+}
+.f{
+    width: 200px;
+    height: 240px;
+    background-color: azure;
+    /* border: 1px solid black; */
+    padding: 60px 20px 20px 20px;
+}
+/* resume */
+.g{
+    margin: 130px 210px 0 210px;
+}
+.container{
+    display: flex;
+    gap: 30px;
+    /* margin: 130px 200px 0 200px; */
+}
+.resume{
+    text-align: center;
+}
+.h{
+    height: 155px;
+    width: 400px;
+    background-color: azure;
+}
+.btn1{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 15px 33px; 
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 20px;
+    /* margin: 50px 360px; */
+}
+.textcenter{
+    margin: 50px auto 100px auto;
+}
+/* footer */
+footer{
+    background-color: #FFF8F3;
+    padding: 100px 200px;
+    display: flex;
+    gap: 100px;
+}
+.btn2{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 10px 23px; 
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 20px;
+}
